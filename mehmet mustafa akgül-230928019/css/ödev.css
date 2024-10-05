@@ -1,0 +1,82 @@
+ .resimSlider{
+	height:600px;
+	width:500px;
+}
+ .body{
+	 
+	 padding-top:50px;
+ }
+ 
+ .hakkimizda{
+	 background-color:#d3d3d3;
+ }
+ .ayrac{
+	 border:none;
+	 border-top:3px solid #343a40;
+	 max-width:250px;
+	 margin:25px auto;
+ }
+ .ibeyaz{
+	 position: relative;
+	 top:-55px;
+	 font-size:40px;
+	 border:10px solid #ffffff;
+	 background-color: #ffffff;
+ }
+
+.igri{
+	 position: relative;
+	 top:-55px;
+	 font-size:40px;
+	 border:10px solid #d3d3d3;
+	 background-color: #d3d3d3;
+ }
+.ilancard>img:hover{
+	opacity:0.8;
+}
+.galeri{
+	background-color:#d3d3d3;
+}
+.figure:hover{
+	opacity:0.8;
+} 
+.card_link {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 16px;
+}
+.ilancard {
+
+	height: 25rem;
+}
+.navbar-brand img{
+	height:50px;
+}
+.fab {
+    padding: 20px;
+    font-size: 30px;
+    width: 32px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 10px;
+}
+.fab:hover {
+    opacity: 0.6;
+.fa-facebook-f {
+    background: #3B5998;
+    color: white;
+}
+.fa-youtube {
+    background: #bb0000;
+    color: white;
+}
+.fa-instagram {
+    background: #f3f3f3;
+    color: rgb(7, 7, 7);
+}
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
